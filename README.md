@@ -10,7 +10,7 @@ ERC20 address: 0xF0dfc1138965596Ce8523Cc80a830A321Bb39A90
 Deployer/Owner: 0xf5d428862E4B278e051DE85D740447705217D518
 
 ---
-
+```
 ❯ truffle migrate --network moonbase
 
 Compiling your contracts...
@@ -78,6 +78,7 @@ Summary
 =======
 > Total deployments:   2
 > Final cost:          0.0254166 ETH
+```
 
 🧑‍💻 [ECOSYSTEM CHALLENGE] Deploy on Moonbase Alpha using Truffle
 
